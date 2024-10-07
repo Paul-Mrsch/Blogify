@@ -1,4 +1,4 @@
-# Projelogidy
+# Projet Blogify
 
 Blogify is a simple blog application built with Node.js, Express, and MongoDB.
 
@@ -34,4 +34,5 @@ npm start
 
 ## Authors
 
-
+- [Paul Mareschi](https://github.com/Paul-Mrsch)
+- [Clovis Kouoi](https://github.com/HTClaus)
