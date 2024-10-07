@@ -32,6 +32,8 @@ Instructions on how to use the project.
 npm start
 ```
 
+To test the API, you can go on the /doc to run the swagger and try out the API.
+
 ## Authors
 
 - [Paul Mareschi](https://github.com/Paul-Mrsch)
