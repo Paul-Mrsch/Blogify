@@ -1,4 +1,4 @@
-# Project Title
+# Projelogidy
 
 Blogify is a simple blog application built with Node.js, Express, and MongoDB.
 
@@ -6,8 +6,7 @@ Blogify is a simple blog application built with Node.js, Express, and MongoDB.
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Authors](#authors)
 
 ## Installation
 
@@ -15,10 +14,10 @@ Instructions on how to install and set up the project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/Paul-Mrsch/Blogify.git
 
 # Navigate to the project directory
-cd yourproject
+cd Blogify
 
 # Install dependencies
 npm install
@@ -33,17 +32,6 @@ Instructions on how to use the project.
 npm start
 ```
 
-## Contributing
+## Authors
 
-Guidelines for contributing to the project.
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
